@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello Bladerunners 👋
 
-<!--
-**whymidnight/whymidnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently researching blockchain technologies
+- 🌱 I’m currently learning how to oxidize soft wares.
+- 👯 I’m looking to grow my tech team, Triptych Labs
+- 🤔 I’m looking for help with jet propulsion
+- 💬 Ask me about cats
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/whymidnight)
+- 😄 Pronouns: why _or_ midnight
+- ⚡ Fun fact: I bang keyboards instead of women
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**If [Putin] wants to kill himself, he doesn’t need to use nuclear arsenal. He has to do what the guy in Berlin did in a bunker in May 1945. Slava Ukraini! Heroyam slava!**
