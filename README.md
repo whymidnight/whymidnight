@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently researching blockchain technologies
 - 🌱 I’m currently learning how to oxidize soft wares.
-- 👯 I’m looking to grow my tech team, Triptych Labs
+- 👯 I’m looking to grow my tech team, [Triptych Labs](https://github.com/Triptych-Labs)
 - 🤔 I’m looking for help with jet propulsion
 - 💬 Ask me about cats
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/whymidnight)
