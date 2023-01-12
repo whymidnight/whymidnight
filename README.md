@@ -1,5 +1,7 @@
 ### Hello Bladerunners 👋
 
+Currently I have a lot of responsibilities, capabilities, well... abilities.
+
 - 🔭 I alchemise visions into full stack products.
 - 🌱 I’m currently learning how to oxidize soft wares.
 - 👯 I work for some of the most amazing people @ [NATION](https://nation.io).
