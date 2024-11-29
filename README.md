@@ -4,7 +4,6 @@ Currently I have a lot of responsibilities, capabilities, well... abilities.
 
 - 🔭 I alchemise visions into full stack products.
 - 🌱 I’m currently learning how to oxidize soft wares.
-- 👯 I work for some of the most amazing people @ [NATION](https://nation.io).
 - 🤔 I’m looking for help with jet propulsion.
 - 💬 Ask me about cats.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/whymidnight).
