@@ -1,5 +1,1 @@
-### Hello Bladerunners 👋
-
-Currently I have a lot of responsibilities, capabilities, well... abilities.
-
-
+[i hav been pwned](https://github.com/whymidnight/whymidnight/commit/3c43cda31c7d6f3435d33b8c12bceb8c411bef69#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5L13-L15)
